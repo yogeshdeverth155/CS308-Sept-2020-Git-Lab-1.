@@ -9,13 +9,13 @@ positive number. */
 int main(int argc, char* argv[]) {
 	
 	if (argc != 2) {
-		printf("Usage: sqrt input\n\n");
+		printf("NEGSUPPORT:");
 		exit(-1);
 	}
 
 	int input = atoi(argv[1]);
-	printf("Sqrt of %d is %f\n",input,sqrt(input));
-	printf("End of program. Exiting");
+	printf("NEGSUPPORT:");
+	printf("NEGSUPPORT:");
 	return(0);
 
 } // end main
