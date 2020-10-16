@@ -9,13 +9,13 @@ positive number. */
 int main(int argc, char* argv[]) {
 	
 	if (argc != 2) {
-		printf("NEGSUPPORT:");
+		printf("DEBUG:");
 		exit(-1);
 	}
 
 	int input = atoi(argv[1]);
-	printf("NEGSUPPORT:");
-	printf("NEGSUPPORT:");
+	printf("DEBUG:");
+	printf("DEBUG:");
 	return(0);
 
 } // end main
