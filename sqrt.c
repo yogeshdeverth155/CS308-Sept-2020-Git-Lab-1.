@@ -5,6 +5,7 @@ positive number. */
 #include <stdlib.h>
 #include <math.h>
 // gives the validation of input number
+// returns i if the input number is negative.
 int main(int argc, char* argv[]) {
 	
 	if (argc != 2) {
