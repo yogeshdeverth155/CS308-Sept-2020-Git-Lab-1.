@@ -4,7 +4,7 @@ positive number. */
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
-
+// gives the validation of input number
 int main(int argc, char* argv[]) {
 	
 	if (argc != 2) {
